@@ -3,7 +3,7 @@
 ## I am Swapnil Bawane.
 
 
-- 🔭 I’m currently learning with Neogcamp 
+- 🔭 I’m currently exploring front end development with Neogcamp 
 - 🌱 I’m currently learning Javascript, CSS and HTML
 - 💬 Ask me about writing and community
 - 📫 How to reach me: [Twitter](https://twitter.com/swapnildecodes)
